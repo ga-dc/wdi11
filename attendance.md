@@ -18,7 +18,7 @@ Please check in for class while connected to GA's wireless network (`GA-Guest`),
 
 ![View on log-in](http://i.imgur.com/zOuHGdS.png)
 
-### 2. Click the name of your current cohort. In this case, that's "DC WDI8". You'll see this:
+### 2. Click the name of your current cohort. In this case, that's "DC wdi10". You'll see this:
 
 ![Check-in button](http://imgur.com/6HFj8lq.png)
 

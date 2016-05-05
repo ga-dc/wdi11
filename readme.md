@@ -1,4 +1,4 @@
-# WDI8
+# wdi10
 
 ## Table of Contents
 
@@ -6,7 +6,7 @@
 
 - [Attendance](attendance.md)
 
-- [Calendar](http://ga-dc.github.io/wdi8/calendar.html)
+- [Calendar](http://ga-dc.github.io/wdi10/calendar.html)
 
 - [Classroom Rotation](classroom-rotation.md)
 
