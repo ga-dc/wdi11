@@ -1,4 +1,4 @@
-# wdi10
+# WDI 10 Syllabus
 
 ## Table of Contents
 
