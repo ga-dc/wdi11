@@ -1,30 +1,29 @@
 # WDI 10 Syllabus
 
-## Table of Contents
+## Administrative
 
-- [Asking for Help](asking-for-help.md)
-- [Attendance](attendance.md)
 - [Calendar](http://ga-dc.github.io/wdi10/calendar.html)
-- [Classroom Rotation](classroom-rotation.md)
+- [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [Incentives](incentives.md)
   - Includes attendance and homework policies
-- [Office Hours](office-hours.md)
 - [One-on-Ones](one-on-ones.md)
-- [Schedule, Scope, and Sequence](scope-and-sequence.md)
 - [Squads](squads.md)
-- [Outcomes Roadmap](https://docs.google.com/document/d/1uxq2Z_UPrlUJSlSGXgOWfC-A-3F6tWdzd1uqMxcaktA/edit)
+- [Office Hours](office-hours.md)
 
 ## Curriculum
 
+- [Schedule, Scope, and Sequence](scope-and-sequence.md)
 - [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
 - [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
 - [Installfest](https://github.com/ga-dc/installfest)
 - [Download the whole curriculum in one fell swoop](https://github.com/ga-dc/curriculum-collector)
+- [Outcomes Roadmap](https://docs.google.com/document/d/1uxq2Z_UPrlUJSlSGXgOWfC-A-3F6tWdzd1uqMxcaktA/edit)
 
-## Slack
+## Communication
 
-- Rooms
+- [Asking for Help](asking-for-help.md)
+- Slack
   - [#announcements](https://wdidc10.slack.com/archives/announcements)
   - [#discussion](https://wdidc10.slack.com/archives/discussion)
   - [wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
