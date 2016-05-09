@@ -3,26 +3,16 @@
 ## Table of Contents
 
 - [Asking for Help](asking-for-help.md)
-
 - [Attendance](attendance.md)
-
 - [Calendar](http://ga-dc.github.io/wdi10/calendar.html)
-
 - [Classroom Rotation](classroom-rotation.md)
-
 - [Homework Policy](homework-policy.md)
-
 - [Incentives](incentives.md)
   - Includes attendance and homework policies
-
 - [Office Hours](office-hours.md)
-
 - [One-on-Ones](one-on-ones.md)
-
 - [Schedule, Scope, and Sequence](scope-and-sequence.md)
-
 - [Squads](squads.md)
-
 - [Outcomes Roadmap](https://docs.google.com/document/d/1uxq2Z_UPrlUJSlSGXgOWfC-A-3F6tWdzd1uqMxcaktA/edit)
 
 ## [GArnet](http://garnet.wdidc.org)
@@ -31,23 +21,18 @@ Your one-stop-shop for tracking your attendance, homework submissions, and more!
 
 http://garnet.wdidc.org
 
-## Tools
+## Curriculum
 
 - [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
-
 - [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
-
 - [Installfest](https://github.com/ga-dc/installfest)
-
 - [Download the whole curriculum in one fell swoop](https://github.com/ga-dc/curriculum-collector)
 
 ## Slack
 
 - Rooms
-  - [wdi-dc-8-students](https://ga-students.slack.com/messages/wdi-dc-8-students/)
-  - [wdi-dc-8-announcements](https://ga-students.slack.com/messages/wdi-dc-8-announce/)
-  - [wdi-dc-8-classroom-4](https://ga-students.slack.com/messages/wdi-dc-8-classroom-4/)
-  - [wdi-dc-8-classroom-6](https://ga-students.slack.com/messages/wdi-dc-8-classroom-4/)
+  - [#announcements](https://wdidc10.slack.com/archives/announcements)
+  - [#discussion](https://wdidc10.slack.com/archives/discussion)
   - [wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
 
 - Tips
