@@ -10,7 +10,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: To Oz! (via the Command Line)](https://github.com/ga-wdi-exercises/to_oz)
   - [Git and Github Intro](https://github.com/ga-wdi-lessons/git-intro)
     - [HW: Git Haiku](https://github.com/ga-wdi-exercises/haiku)
-  - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)o
+  - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)
   - [Lab: Portfolio Pages](https://github.com/ga-wdi-exercises/portfolio_pages)
   - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-review)
   - [Quiz 1](https://github.com/ga-wdi-quizzes/week-01)
@@ -42,9 +42,10 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Project 1 Refactoring Lab](https://github.com/ga-wdi-lessons/refactoring)
   - [User Stories and Problem Modeling](https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling)
     - [HW: ATM](https://github.com/ga-wdi-exercises/atm)
-  - [jQuery Plugins](https://github.com/ga-wdi-lessons/jquery-plugins)
-  - [Code Retreat](https://github.com/ga-wdi-exercises/code_retreat)
-  - [Refactoring](https://github.com/ga-wdi-lessons/refactoring)
+  - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro-with-ajax)
+    - HW: Infinite Giphy
+  - PHP Intro
+  - HTML Forms
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
   - [Quiz 3](https://github.com/ga-wdi-quizzes/week-04)
 
@@ -67,13 +68,13 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 ## Rails
   - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/http-mvc-intro-rails/tree/master)
     - [HW: Scribble](https://github.com/ga-wdi-exercises/scribble)
-  - [Views and Controllers](https://github.com/ga-wdi-lessons/rails-views)
-  - [Models and Migrations](https://github.com/ga-wdi-lessons/rails-activerecord)
-  - [Routing and Resources](https://github.com/ga-wdi-lessons/rails-routing)
-  - [Forms and Helpers](https://github.com/ga-wdi-lessons/forms-and-helpers)
+  - [Rails Read, Create, Delete](https://github.com/ga-wdi-lessons/rails_features_CRD)
+    - [HW: Scribble](https://github.com/ga-wdi-exercises/scribble)
+  - [Rails Edit, Update, and Partials](https://github.com/ga-wdi-lessons/rails-features-U-partials)
   - [Sessions, Users, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies)
-  - [Model Methods and Validations](https://github.com/ga-wdi-lessons/rails-model-methods-validations)
+  - Associations Forms in Rails
   - [Lab: Hogwarts](https://github.com/ga-wdi-exercises/hogwarts_rails)
+  - [Mini: Deployment and the Asset Pipeline](https://github.com/ga-wdi-lessons/rails-deployment)
   - [Mini: How to Retroactively Add Devise](https://github.com/ga-wdi-lessons/rails-auth)
   - [Mini: Sinatra Walkthrough](https://github.com/ga-wdi-lessons/sinatra-walkthrough)
   - [Quiz 5](https://github.com/ga-wdi-quizzes/week-06)
@@ -84,13 +85,13 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Mini: Many-to-Many Relationships](https://github.com/ga-wdi-lessons/rails-many-to-many)
 
 ## Angular and APIs
-  - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro-with-ajax)
   - [Single-Page Apps, Angular, Directives, and Controllers](https://github.com/ga-wdi-lessons/angular_spa_intro)
     - [HW: Angular ToDo](https://github.com/ga-wdi-exercises/angular_todo)
   - [uiRouter](https://github.com/ga-wdi-lessons/angular-routing)
+  - [Custom Directives](https://github.com/ga-wdi-lessons/angular-directives)
+  - Lab: Portfolio Pages
   - [Factories, Services, and ngResource](https://github.com/ga-wdi-lessons/angular-resources)
     - [HW: Grumblr](https://github.com/ga-wdi-exercises/grumblr_angular)
-  - [Custom Directives](https://github.com/ga-wdi-lessons/angular-directives)
   - [Rails Back, Angular Front](https://github.com/ga-wdi-lessons/angular-on-rails)
   - [Git Workflow and Teams](https://github.com/ga-wdi-lessons/git-teams)
   - [Mini: Angular Walkthrough](https://github.com/ga-wdi-exercises/shangriangula)
@@ -104,7 +105,6 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Express: Build a Simple App](https://github.com/ga-wdi-lessons/mean-intro)
     - [HW: Install appropriate software](https://github.com/ga-wdi-lessons/mean-intro/blob/master/setup.md)
     - [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
-  - [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
   - [Mongoose CRUD](https://github.com/ga-wdi-lessons/mongoose-intro)
     - [HW: Yum](https://github.com/ga-wdi-exercises/yum)
   - [Express + Mongoose](https://github.com/ga-wdi-lessons/express-mongoose)
@@ -117,7 +117,6 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 7](https://github.com/ga-wdi-quizzes/week-10)
 
 ## Everything Else
-  - [PHP Intro](https://github.com/ga-wdi-lessons/php-intro)
   - [SASS](https://github.com/ga-wdi-lessons/sass-intro)
   - [Build Tools](https://github.com/ga-wdi-lessons/build-tools)
   - [Wordpress Intro](https://github.com/ga-wdi-lessons/wordpress-intro)
