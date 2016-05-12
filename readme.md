@@ -28,9 +28,9 @@
     - [WDI DC 10](https://wdidc10.slack.com) - Our primary slack team
       - [#announcements](https://wdidc10.slack.com/archives/announcements)
       - [#discussion](https://wdidc10.slack.com/archives/discussion)
-      - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
     - [GA DC Campus](https://gadc-campus.slack.com) - The DC alumni team
     - [GA Immersive Students](https://ga-students.slack.com) - Every Immersive student ever at any campus
+      - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
 
 - Tips
   - \``hello`\`: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
