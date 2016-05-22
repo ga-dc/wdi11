@@ -1,8 +1,10 @@
+
 # ![](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) WDI 10 Syllabus
 
 ## Administrative
 
-- [Calendar](http://ga-dc.github.io/wdi10/calendar.html)
+- [**Calendar**](http://ga-dc.github.io/wdi10/calendar.html)
+  - **Includes all lessons and homework assignments with due dates**
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [Incentives](incentives.md)
@@ -13,11 +15,9 @@
 
 ## Curriculum
 
-- [Schedule, Scope, and Sequence](scope-and-sequence.md)
 - [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
 - [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
 - [Installfest](https://github.com/ga-dc/installfest)
-- [Download the whole curriculum in one fell swoop](https://github.com/ga-dc/curriculum-collector)
 - [Outcomes Roadmap](https://docs.google.com/document/d/1uxq2Z_UPrlUJSlSGXgOWfC-A-3F6tWdzd1uqMxcaktA/edit)
 
 ## Communication
@@ -33,14 +33,13 @@
       - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
 
 - Tips
-  - \``hello`\`: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
-  - \`\`\`
-    ```
-    A row of 3 backtics on either end of text makes it show up as a block of monospaced code.
-
-    The backtics must be on a row by themselves.
-    ```
-    \`\`\`
+  - <code>&grave;hello&grave;</code>: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
+  - Code blocks are made with three backtics:
+    <pre>
+    &grave;&grave;&grave;
+    The backtics MUST be on a line by themselves!
+    &grave;&grave;&grave;
+    </pre>
   - These same backtick tricks also work on **Github**.
   - `@here`: Sends a message to everyone currently online in a Slack room
-  - Send a direct message to Anonbot for more useful tips!
+
