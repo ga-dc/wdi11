@@ -4,7 +4,6 @@
 
 - Denzel Adams
 - Arthur Adams
-- Omied Badr
 - Joseph Calvillo
 - David Corderman
 - Christopher Gardner
