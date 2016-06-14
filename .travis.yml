@@ -5,7 +5,6 @@ script:
 - git clone https://github.com/ga-dc/wdi-schedule-generator.git
 - cat wdi-schedule-generator/header.html > index.html
 - ruby wdi-schedule-generator/app.rb >> index.html
-- cat index.html
 after_success:
 - bash deploy.sh ga-dc/wdi11
 env:
