@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+- 2.2
+script:
+- git clone https://github.com/ga-dc/wdi-schedule-generator.git
+- cat wdi-schedule-generator/header.html > index.html
+- ruby wdi-schedule-generator/app.rb >> index.html
+- cat index.html
+after_success:
+  - bash deploy.sh ga-dc/wdi11
+env:
+  global:
+    secure: iJg1QW0yV/lezSZL44NJ7IhM1JwaQ6L1xb6IWwuMvOKovb3LEulsDeApteXG6qVnYsy1BiBjFEsxCIgeQvpuchzZwUyNWMFlKZtuILPdxDYbnYw77M2MGdBAohSVaSu3TA8TGfcMZsROPhcfhPZ5AGUEu5c9pnaTXo7Jr709n8xOCy9wOTJt2JE5gfqQmz6sfjQkISwD9laXbYMvCMwNdP+zsoldtnN4OkiFI5RzYQaQtqyz6LHLxZ2lss79RjYnA52osmVb5yHX5hTooFsEI8OOFZ9mDQdk0e52KujYunEyAT6+7gwHiW7mGfkDqoOAMMtPkhFciX0Q09eCi6Eu+G3aZJ8wPvo1SXGd70nx0q2+PODbPZ/gALD0G/IZBsx2gOns/s4hVRyt8bIEyMZgmiC72tUU5E+viKTboIOHUGKlHVc2YI9iVEXmC8Z5W30ruCWN0QyH8dfU19FblW9PeapU6pAWWRZlnIcaW6Ox/VatPwbU2NovdpsaNfFGD6cMlggEg4DZnHh5DlPDoNzdVJzEK6dsbqFm/5iLG0YqL9OMAxFFFZ2jE1cZ0kW1LpQzVpYw5x+tVl/r5ICwxpHoCitI9wG0G8mkG+TiO1DQPp8v2JVbSW/A5rRKtZT/ZyzTvj9iryqY7Eet6xiGcgi4eqCfRb1zkMGCU9zH9PxChqg=
