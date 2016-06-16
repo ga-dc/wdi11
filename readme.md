@@ -3,7 +3,7 @@
 
 ## Administrative
 
-- Calendar
+- [Calendar](http://ga-dc.github.io/wdi11/)
   - **Includes all lessons and homework assignments with due dates**
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
