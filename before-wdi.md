@@ -10,6 +10,6 @@
 
 4. **Complete the [outcomes prework](https://generalassemblydc.typeform.com/to/rOEItv).** This will take you 30 minutes - 1 hour.
 
-Once you're done, we encourage you to take a look through [this readme](https://github.com/ga-dc/wdi10/blob/master/readme.md) if you would like to learn more about what you can expect out of WDI.
+Once you're done, we encourage you to take a look through [this readme](https://github.com/ga-dc/wdi11/blob/master/readme.md) if you would like to learn more about what you can expect out of WDI.
 
 See you all Monday!
