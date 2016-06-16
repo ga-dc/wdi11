@@ -2,7 +2,7 @@
 
 **Please complete the following steps as soon as possible.** We can't make classroom/squad assignments until you do!
 
-1. **Click [this link](https://garnet.wdidc.org/github/authorize?invite_code=1edbe47b46b49286bfc74e9caf5f0090).** This will authorize you for Garnet, an application that both instructors and students will use to track your progress throughout WDI.  
+1. **Click [this link](https://garnet.wdidc.org/github/authorize?invite_code=7871bdcb1f4aa8dc4602313b38d47c71).** This will authorize you for Garnet, an application that both instructors and students will use to track your progress throughout WDI.  
 
 2. **Update your GitHub profile with your full name and profile picture.** The latter is very important - we need to know what you look like! The clearer the picture, the better.
 
