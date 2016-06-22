@@ -10,7 +10,7 @@ We ask that you take the following steps when dealing with technical questions, 
 
 1. Try something else
 2. Look at Google
-3. Look at the [lesson plan](scope-and-sequence.md)
+3. Look at the [lesson plan](http://ga-dc.github.io/wdi11/)
 4. Ask another classmate
 5. Ask an instructor
 
