@@ -20,7 +20,7 @@
 - Daniela Noir
 - Aubrey Northam
 - Pamela Olney
-- 
+
 ## Nayana
 - Van Phan
 - Chistopher Phillips
