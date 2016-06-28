@@ -12,7 +12,7 @@
        lead: "Andy"
        support: "Tyler"
   - day:
-    - "9:00AM":
+    - "8:00AM - 9:00AM":
        title: "Homework Due"
        url: "https://github.com/ga-wdi-exercises/to_oz"
        lead: ""
@@ -33,7 +33,7 @@
        lead: "Tyler"
        support: "James"
   - day:
-    - "9:00AM":
+    - "8:00AM - 9:00AM":
        title: "Homework Due"
        url: "https://github.com/ga-wdi-exercises/haiku, https://github.com/ga-wdi-exercises/wendy_bite"
        lead: ""
@@ -70,7 +70,7 @@
        lead: "Tyler"
        support: ""
   - day:
-    - "9:00AM":
+    - "8:00AM - 9:00AM":
        title: "DUE AT 9: Lab"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: ""
@@ -97,7 +97,7 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM":
+    - "8:00AM - 9:00AM":
        title: "DUE at 9: Quiz"
        url: "https://github.com/ga-wdi-quizzes/week-01"
        lead: ""
@@ -118,7 +118,7 @@
        lead: "James"
        support: ""
   - day:
-    - "9:00AM":
+    - "8:00AM - 9:00AM":
        title: "DUE AT 9: Watch this DevTools video"
        url: "https://www.codeschool.com/courses/discover-devtools"
        lead: ""
@@ -194,7 +194,7 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM":
+    - "8:00AM - 9:00AM":
        title: "Project: Due"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
@@ -305,7 +305,7 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM":
+    - "8:00AM - 9:00AM":
        title: "DUE AT 9: Lab"
        url: ""
        lead: ""
@@ -401,7 +401,7 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "12:00PM":
+    - "11:00AM - 12:00PM":
        title: "Project Due: Submit Video No later than 12:00 PM"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
@@ -491,7 +491,7 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
-    - "12:00PM":
+    - "11:00AM - 12:00PM":
        title: "Project Due"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""

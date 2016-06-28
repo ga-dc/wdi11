@@ -9,9 +9,9 @@
 - Taylor Edwards
 - John Estes
 - Marc Fournier
+- Chase Freeman
 
 ## James
-- Chase Freeman
 - Mahati Gollamudi
 - Alexander Holland
 - Parnell Kelley
@@ -19,13 +19,15 @@
 - Winston Mclean
 - Daniela Noir
 - Aubrey Northam
+- Pamela Olney
 
 ## Nayana
-- Pamela Olney
 - Van Phan
 - Chistopher Phillips
 - Tyler Rosenberg
 - Evan Sanderson
+- Courtney Seitz
 - Sarah Shultis
 - Giomar Silva
 - Dominique Simmons
+- Ahmed Elkheshin
