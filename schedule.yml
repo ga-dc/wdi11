@@ -12,7 +12,7 @@
        lead: "Andy"
        support: "Tyler"
   - day:
-    - "8:00AM - 9:00AM":
+    - "9:00AM":
        title: "Homework Due"
        url: "https://github.com/ga-wdi-exercises/to_oz"
        lead: ""
@@ -33,7 +33,7 @@
        lead: "Tyler"
        support: "James"
   - day:
-    - "8:00AM - 9:00AM":
+    - "9:00AM":
        title: "Homework Due"
        url: "https://github.com/ga-wdi-exercises/haiku, https://github.com/ga-wdi-exercises/wendy_bite"
        lead: ""
@@ -195,7 +195,7 @@
        lead: ""
        support: ""
   - day:
-    - "8:00AM - 9:00AM":
+    - "9:00AM":
        title: "Project: Due"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
@@ -306,7 +306,7 @@
        lead: ""
        support: ""
   - day:
-    - "8:00AM - 9:00AM":
+    - "9:00AM":
        title: "DUE AT 9: Lab"
        url: ""
        lead: ""
