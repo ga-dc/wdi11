@@ -123,10 +123,20 @@
        url: "https://www.codeschool.com/courses/discover-devtools"
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
+    - "09:00AM - 10:00AM":
+       title: "Bootstrap"
+       url: ""
+       lead: "Andy"
+       support: ""
+    - "10:00AM - 12:30PM":
        title: "Debugging"
        url: "https://github.com/ga-wdi-lessons/js-debugging"
        lead: "Andy"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -145,7 +155,7 @@
        lead: "James"
        support: ""
   - day:
-    - "08:00AM - 9:00AM":
+    - "9:00AM":
        title: "DUE AT 9: Lab"
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
