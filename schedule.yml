@@ -44,15 +44,15 @@
        lead: "Andy"
        support: ""
     - "10:00 AM - 12:30PM":
-       title: "Outcomes 2"
-       url: "https://github.com/ga-wdi-lessons/building_a_portfolio_page"
-       lead: "Tyler"
-       support: "Andy"
+       title: "Outcomes"
+       url: ""
+       lead: ""
+       support: ""
     - "2:30PM - 5:00PM":
        title: "CSS 2"
        url: "https://github.com/ga-wdi-lessons/building_a_portfolio_page"
        lead: "Tyler"
-       support: "Andy"
+       support: "Nayana"
   - day:
     - "9:00AM - 10:00AM":
        title: "Git 2: mini-lesson"
@@ -70,13 +70,13 @@
        lead: "Tyler"
        support: ""
   - day:
-    - "8:00AM - 9:00AM":
+    - "9:00AM":
        title: "DUE AT 9: Lab"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "PsuedoCoding"
+       title: "PseudoCoding"
        url: ""
        lead: "Nayana"
        support: ""
@@ -85,11 +85,11 @@
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Nayana"
        support: "Andy"
-    - "2:30PM - 5:00PM":
-       title: "DOM with jQuery"
-       url: "http://ga-wdi-lessons.github.io/jquery-first-DOM/"
+    - "10:00AM - 12:30PM":
+       title: "Objects and Functions"
+       url: "https://github.com/ga-wdi-lessons/js-objects-functions"
        lead: "Andy"
-       support: "Tyler"
+       support: "James"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class"
@@ -97,7 +97,7 @@
        lead: ""
        support: ""
   - day:
-    - "8:00AM - 9:00AM":
+    - "9:00AM":
        title: "DUE at 9: Quiz"
        url: "https://github.com/ga-wdi-quizzes/week-01"
        lead: ""
@@ -107,26 +107,27 @@
        url: "https://ga-dc.github.io/slips/"
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "Objects and Functions"
-       url: "https://github.com/ga-wdi-lessons/js-objects-functions"
+    - "2:30PM - 5:00PM":
+       title: "DOM with jQuery"
+       url: "http://ga-wdi-lessons.github.io/jquery-first-DOM/"
        lead: "Nayana"
-       support: ""
+       support: "Andy"
+
     - "2:30PM - 5:00PM":
        title: "Events and Callbacks"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: "James"
-       support: ""
+       support: "Andy"
   - day:
-    - "8:00AM - 9:00AM":
+    - "9:00AM":
        title: "DUE AT 9: Watch this DevTools video"
        url: "https://www.codeschool.com/courses/discover-devtools"
        lead: ""
        support: ""
-    - "09:00AM - 10:00AM":
+    - "9:00AM - 10:00AM":
        title: "Bootstrap"
        url: ""
-       lead: "Andy"
+       lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Debugging"
@@ -164,12 +165,12 @@
        title: "Scope & Closures"
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "Andy "
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Problem Modeling & User Stories"
        url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
        lead: "Andy"
-       support: ""
+       support: "Nayana"
   - day:
     - "2:30PM - 04:30PM":
        title: "Office Hours"
