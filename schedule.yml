@@ -98,18 +98,8 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE at 9: Quiz"
-       url: "https://github.com/ga-wdi-quizzes/week-01"
-       lead: ""
-       support: ""
-    - "9:00AM":
-       title: "DUE at 9: JS Calculator"
-       url: "https://github.com/ga-wdi-exercises/js-calculator"
-       lead: ""
-       support: ""
-    - "9:00AM":
-       title: "DUE at 9: Choose Your Own Adventure"
-       url: "https://github.com/ga-wdi-exercises/choose_your_own_adventure_js"
+       title: "DUE at 9: Quiz, JS Calculator, Choose Your Own Adventure"
+       url: "https://github.com/ga-wdi-quizzes/week-01, https://github.com/ga-wdi-exercises/js-calculator, https://github.com/ga-wdi-exercises/choose_your_own_adventure_js"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
