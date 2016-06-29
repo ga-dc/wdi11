@@ -50,7 +50,7 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "CSS 2"
-       url: "#"
+       url: "https://github.com/ga-wdi-lessons/css-layout/"
        lead: "Tyler"
        support: "Nayana"
   - day:
