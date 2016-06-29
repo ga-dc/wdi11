@@ -40,7 +40,7 @@
        support: ""
     - "9:00 AM - 10:00 AM":
        title: "Git Review"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/git-branching-mini-lesson"
        lead: "Andy"
        support: ""
     - "10:00 AM - 12:30PM":
