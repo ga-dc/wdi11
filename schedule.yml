@@ -40,7 +40,7 @@
        support: ""
     - "9:00 AM - 10:00 AM":
        title: "Git Review"
-       url: "https://github.com/ga-wdi-lessons/git-branching-mini-lesson"
+       url: "#"
        lead: "Andy"
        support: ""
     - "10:00 AM - 12:30PM":
@@ -56,8 +56,8 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Git 2: mini-lesson"
-       url: "https://github.com/ga-wdi-lessons/atom-intro"
-       lead: ""
+       url: "https://github.com/ga-wdi-lessons/git-branching-mini-lesson"
+       lead: "James"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Portfolio Pages"
