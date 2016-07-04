@@ -12,7 +12,7 @@
 - Chase Freeman
 
 ## James
-- Mahati Gollamudi
+- Ahmed Elkheshin
 - Alexander Holland
 - Parnell Kelley
 - Michael Mahony
@@ -30,4 +30,4 @@
 - Sarah Shultis
 - Giomar Silva
 - Dominique Simmons
-- Ahmed Elkheshin
+

@@ -40,7 +40,7 @@
        support: ""
     - "9:00 AM - 10:00 AM":
        title: "Git Review"
-       url: ""
+       url: "#"
        lead: "Andy"
        support: ""
     - "10:00 AM - 12:30PM":
@@ -50,14 +50,14 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "CSS 2"
-       url: "https://github.com/ga-wdi-lessons/building_a_portfolio_page"
+       url: "https://github.com/ga-wdi-lessons/css-layout/"
        lead: "Tyler"
        support: "Nayana"
   - day:
     - "9:00AM - 10:00AM":
        title: "Git 2: mini-lesson"
-       url: "https://github.com/ga-wdi-lessons/atom-intro"
-       lead: ""
+       url: "https://github.com/ga-wdi-lessons/git-branching-mini-lesson"
+       lead: "James"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Portfolio Pages"
@@ -77,7 +77,7 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "PseudoCoding"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/pseudocode"
        lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
@@ -98,8 +98,8 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE at 9: Quiz"
-       url: "https://github.com/ga-wdi-quizzes/week-01"
+       title: "DUE at 9: Quiz, JS Calculator, Choose Your Own Adventure"
+       url: "https://github.com/ga-wdi-exercises/css_git_JS_quiz, https://github.com/ga-wdi-exercises/js-calculator, https://github.com/ga-wdi-exercises/choose_your_own_adventure_js"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
