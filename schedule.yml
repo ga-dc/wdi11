@@ -108,8 +108,8 @@
        lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "https://github.com/ga-wdi-lessons/jquery-dom/blob/wdi11/readme.md"
-       url: "http://ga-wdi-lessons.github.io/jquery-first-DOM/"
+       title: "DOM with jQuery"
+       url: "https://github.com/ga-wdi-lessons/jquery-dom.git"
        lead: "Nayana"
        support: "Andy"
 
