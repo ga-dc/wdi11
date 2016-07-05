@@ -109,7 +109,7 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "DOM with jQuery"
-       url: "http://ga-wdi-lessons.github.io/jquery-first-DOM/"
+       url: "https://github.com/ga-wdi-lessons/jquery-dom.git"
        lead: "Nayana"
        support: "Andy"
 
