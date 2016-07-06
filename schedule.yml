@@ -140,6 +140,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE AT 9: CashRegister"
+       url: "https://github.com/ga-wdi-exercises/cash-register"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Review"
        url: ""
