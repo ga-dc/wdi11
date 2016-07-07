@@ -170,12 +170,12 @@
        title: "Scope & Closures"
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "Andy "
-       support: "James"
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Problem Modeling & User Stories"
        url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
        lead: "Andy"
-       support: "Nayana"
+       support: "James"
   - day:
     - "2:30PM - 04:30PM":
        title: "Office Hours"
