@@ -236,18 +236,18 @@
     - "10:00AM - 12:30PM":
        title: "Intro to Ruby"
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "10:00 - 12:30PM":
        title: "ERD's SQL"
        url: "https://github.com/ga-wdi-lessons/sql-erd"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Ruby Enums"
@@ -258,29 +258,29 @@
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
-       lead: ""
+       lead: "James"
        support: ""
   - day:
     - "10:00AM - 12:30PM":
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
-       lead: ""
+       lead: "James"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Active Record 1"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "10:00AM - 12:30PM":
        title: "Active Record 2"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Intro to Web/Sinatra"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "10:00AM - 12:30PM":
