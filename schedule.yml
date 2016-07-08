@@ -177,28 +177,27 @@
        lead: "Andy"
        support: "James"
   - day:
-    - "2:30PM - 04:30PM":
-       title: "Office Hours"
-       url: ""
+    - "9:00AM - 12:30PM":
+       title: "Project 1"
+       url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "10:00AM - 12:00PM":
-       title: "Office Hours"
-       url: ""
-       lead: ""
-       support: ""
-  - day:
-    - "2:30PM - 04:30PM":
-       title: "Office Hours"
-       url: ""
+    - "2:30AM - 5:00PM":
+       title: "Project 1"
+       url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
   - day:
-    - "2:30PM - 04:30PM":
-       title: "Office hours"
-       url: ""
+    - "9:00AM - 12:30PM":
+       title: "Project 1"
+       url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
+    - "2:30PM - 5:00PM":
+        title: "Project 1"
+        url: "https://github.com/ga-wdi-exercises/project1"
+        lead: ""
+        support: ""
   - day:
     - "9:00AM":
        title: "Project: Due"
