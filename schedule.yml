@@ -204,7 +204,7 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
+    - "3:30PM - 5:00PM":
         title: "Outcomes"
         url: ""
         lead: ""
@@ -265,10 +265,20 @@
        lead: ""
        support: ""
   - day:
-    - "2:30PM - 5:00PM":
+    - "10:00AM - 12:30PM":
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "James"
+       support: ""
+    - "2:30PM - 3:30PM":
+       title: "Outcomes Small Groups"
+       url: ""
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
