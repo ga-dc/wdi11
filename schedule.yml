@@ -276,7 +276,7 @@
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
-       title: "Outcomes"
+       title: "Outcomes Small Groups"
        url: ""
        lead: ""
        support: ""
@@ -328,6 +328,18 @@
     - "2:30PM - 5:00PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
+       lead: ""
+       support: ""
+  - day:
+    - "2:30PM - 3:30PM":
+       title: "Outcomes Small Groups"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
        lead: ""
        support: ""
   - day:
@@ -387,6 +399,12 @@
        lead: ""
        support: ""
   - day:
+    - "3:30PM - 05:00PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
     - "10:00AM - 12:30PM":
        title: "Rails Associations 2"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
@@ -413,6 +431,18 @@
     - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
+  - day:
+    - "2:30PM - 3:30PM":
+       title: "Outcomes Small Groups"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
        lead: ""
        support: ""
   - day:
@@ -477,6 +507,12 @@
        lead: ""
        support: ""
   - day:
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
     - "10:00AM - 12:30PM":
        title: "Lab: Angular"
        url: ""
@@ -503,6 +539,18 @@
     - "9:00AM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
+       lead: ""
+       support: ""
+  - day:
+    - "2:30PM - 3:30PM":
+       title: "Outcomes Small Groups"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
        lead: ""
        support: ""
   - day:
