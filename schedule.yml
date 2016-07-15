@@ -222,12 +222,12 @@
        support: ""
     - "10:30AM - 12:30PM":
        title: "OOJS 1"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
        lead: "Andy"
        support: ""
     - "2:30 - 5:00PM":
        title: "OOJS 2"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/js-view-constructors"
        lead: "Andy"
        support: ""
 
