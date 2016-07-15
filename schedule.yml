@@ -204,7 +204,7 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
+    - "3:30PM - 5:00PM":
         title: "Outcomes"
         url: ""
         lead: ""
@@ -265,10 +265,20 @@
        lead: ""
        support: ""
   - day:
-    - "2:30PM - 5:00PM":
+    - "10:00AM - 12:30PM":
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "James"
+       support: ""
+    - "2:30PM - 3:30PM":
+       title: "Outcomes Small Groups"
+       url: ""
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Outcomes Small Groups"
+       url: ""
+       lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
@@ -318,6 +328,11 @@
     - "2:30PM - 5:00PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
        lead: ""
        support: ""
   - day:
@@ -376,6 +391,16 @@
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
        lead: ""
        support: ""
+    - "2:30PM - 03:30PM":
+       title: "Outcomes Small Groups"
+       url: ""
+       lead: ""
+       support: ""
+    - "3:30PM - 05:00PM":
+       title: "Outcomes Small Groups"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "10:00AM - 12:30PM":
        title: "Rails Associations 2"
@@ -403,6 +428,12 @@
     - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
+  - day:
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
        lead: ""
        support: ""
   - day:
@@ -460,6 +491,16 @@
        url: "https://github.com/ga-wdi-lessons/angular-on-rails"
        lead: ""
        support: ""
+    - "2:30PM - 3:30PM":
+       title: "Outcomes Small Group"
+       url: ""
+       lead: ""
+       support: ""
+    - "3:30PM - 5:30PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "2:30PM - 5:00PM":
        title: "Git Workflows"
@@ -493,6 +534,11 @@
     - "9:00AM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
        lead: ""
        support: ""
   - day:
