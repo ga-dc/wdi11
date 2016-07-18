@@ -260,8 +260,8 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE at 9: HighCard"
-       url: "https://github.com/ga-wdi-exercises/high_card"
+       title: "DUE at 9: HighCard, Landlord Part 1"
+       url: "https://github.com/ga-wdi-exercises/high_card, https://github.com/ga-wdi-exercises/landlord_ruby_no_AR#part-1-practice-with-enumerables"
        lead: ""
        support: ""
     - "9:00AM - 10:00PM":
