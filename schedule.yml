@@ -259,6 +259,11 @@
        lead: "Andy"
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE at 9: HighCard"
+       url: "https://github.com/ga-wdi-exercises/high_card"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00PM":
        title: "Code Challenge"
        url: "https://github.com/ga-wdi-exercises/luhn_algorithm"
@@ -275,6 +280,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE at 9: NBA Stats"
+       url: "https://github.com/ga-wdi-exercises/nba_stats"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Code Challenge/Review"
        url: ""
