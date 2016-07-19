@@ -281,8 +281,8 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE at 9: NBA Stats"
-       url: "https://github.com/ga-wdi-exercises/nba_stats"
+       title: "DUE at 9: Library Sql"
+       url: "https://github.com/ga-wdi-exercises/library_sql"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -295,44 +295,49 @@
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "James"
        support: ""
-    - "2:30PM - 3:30PM":
-       title: "Outcomes Small Groups"
-       url: ""
-       lead: ""
-       support: ""
     - "3:30PM - 5:00PM":
-       title: "Outcomes Small Groups"
-       url: ""
-       lead: ""
+       title: "Ruby OOP 2"
+       url: "https://github.com/ga-wdi-lessons/ruby-oop"
+       lead: "James"
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE at 9: Landlord"
+       url: "https://github.com/ga-wdi-exercises/landlord_ruby_no_AR"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Bootstrap Mini Lesson"
        url: ""
        lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Ruby OOP 2"
-       url: "https://github.com/ga-wdi-lessons/ruby-oop"
-       lead: "James"
-       support: ""
-    - "2:30PM - 5:00PM":
        title: "Active Record 1"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: "Andy"
        support: ""
-  - day:
-    - "9:00AM - 11:30PM":
+    - "2:30PM - 5:00PM":
        title: "Active Record 2"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: "Andy"
        support: ""
-    - "1:30PM - 4:00PM":
+  - day:
+    - "9:00AM":
+       title: "DUE at 9: Landlord /w AR"
+       url: "https://github.com/ga-wdi-exercises/landlord"
+       lead: ""
+       support: ""
+    - "9:00AM - 11:30PM":
        title: "Intro to Web/Sinatra1"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Nayana"
        support: ""
-    - "4:30PM - 5:00PM":
+    - "1:30PM - 4:00PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 4:30PM":
        title: "Squad Scrum"
        url: ""
        lead: ""
