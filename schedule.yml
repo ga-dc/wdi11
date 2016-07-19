@@ -276,8 +276,8 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Ruby Enums"
-       url: ""
-       lead: ""
+       url: "https://github.com/ga-wdi-exercises/state_capitals"
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM":
