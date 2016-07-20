@@ -297,7 +297,7 @@
        support: ""
     - "3:30PM - 5:00PM":
        title: "Ruby OOP 2"
-       url: "https://github.com/ga-wdi-lessons/ruby-oop"
+       url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
        lead: "James"
        support: ""
   - day:
