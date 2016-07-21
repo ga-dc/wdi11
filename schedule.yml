@@ -308,7 +308,7 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Bootstrap Mini Lesson"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/bootstrap-mini-lesson"
        lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
