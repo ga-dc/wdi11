@@ -322,11 +322,6 @@
        lead: "Andy"
        support: ""
   - day:
-    - "9:00AM":
-       title: "DUE at 9: Landlord /w AR"
-       url: "https://github.com/ga-wdi-exercises/landlord"
-       lead: ""
-       support: ""
     - "9:00AM - 11:30PM":
        title: "Intro to Web/Sinatra1"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
@@ -343,6 +338,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "DUE at 9: Landlord /w AR, Emergency Compliment"
+       url: "https://github.com/ga-wdi-exercises/landlord, https://github.com/ga-wdi-exercises/emergency_compliment"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Sinatra 2"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
