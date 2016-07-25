@@ -350,24 +350,24 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "Sinatra /w AR1"
-       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
+       url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Andy"
        support: ""
   - day:
     - "10:00AM - 12:30PM":
        title: "Sinatra /w AR2"
-       url: "https://github.com/ga-wdi-lessons/sinatra-rest"
+       url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Sinatra"
-       url: "https://github.com/ga-wdi-lessons/activerecord-intro"
+       url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
        title: "Lab: Sinatra"
-       url: "https://github.com/ga-wdi-lessons/activerecord-intro"
+       url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
@@ -377,7 +377,12 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Lab"
+       title: "DUE AT 9: Pokenatra, Landlord"
+       url: "https://github.com/ga-wdi-exercises/pokenatra, https://github.com/ga-wdi-exercises/landlord"
+       lead: ""
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Slips"
        url: ""
        lead: ""
        support: ""
