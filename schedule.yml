@@ -354,6 +354,11 @@
        lead: "Andy"
        support: ""
   - day:
+    - "9:00AM - 10:00PM":
+       title: "Morning Exercise"
+       url: "https://github.com/ga-wdi-exercises/final-countdown"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Sinatra /w AR2"
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
@@ -365,7 +370,17 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00PM":
+       title: "Review"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
+       title: "Lab: Sinatra"
+       url: "https://github.com/ga-wdi-exercises/pokenatra"
+       lead: ""
+       support: ""
+    - "2:30PM - 3:30PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
