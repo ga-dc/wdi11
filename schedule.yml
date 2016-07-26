@@ -370,12 +370,7 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00PM":
-       title: "Review"
-       url: ""
-       lead: ""
-       support: ""
-    - "10:00AM - 12:30PM":
+    - "9:00AM - 12:30PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: ""
@@ -386,9 +381,9 @@
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
-       lead: ""
+       title: "Outcomes: Studio Tour of 0ptimus"
+       url: "https://0ptimus.com/"
+       lead: "James & Matt from Outcomes"
        support: ""
   - day:
     - "9:00AM":
