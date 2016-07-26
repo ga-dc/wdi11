@@ -412,7 +412,17 @@
        url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
        lead: "James"
        support: ""
+    - "5:00PM - 9:00AM on Friday":
+       title: "HOMEWORK: Chapters 1-5 of 'Getting Started with Rails' Tutorial"
+       url: "http://guides.rubyonrails.org/getting_started.html"
+       lead: ""
+       support: ""
   - day:
+    - "9:00AM":
+       title: "Homework Due: Chapters 1-5 of 'Getting Started with Rails' Tutorial"
+       url: "http://guides.rubyonrails.org/getting_started.html"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Rails New, Create and Delete Features"
        url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
