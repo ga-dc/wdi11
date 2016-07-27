@@ -383,7 +383,7 @@
     - "3:30PM - 5:00PM":
        title: "Outcomes: Studio Tour of 0ptimus"
        url: "https://0ptimus.com/"
-       lead: "James & Matt from Outcomes"
+       lead: ""
        support: ""
   - day:
     - "9:00AM":
@@ -399,7 +399,7 @@
     - "10:00AM - 12:30PM":
        title: "Intro to Rails/Sinatra Port"
        url: "https://github.com/ga-wdi-lessons/porting-sinatra-to-rails"
-       lead: "James"
+       lead: "Nayana"
        support: ""
 
     - "2:30PM - 5:00PM":
@@ -421,7 +421,7 @@
     - "10:00AM - 12:30PM":
        title: "Rails New, Create and Delete Features"
        url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
-       lead: "Nayana"
+       lead: "James"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Rails Edit and Update Features"
@@ -432,7 +432,7 @@
     - "10:00AM - 12:30PM":
        title: "Rails Validations Sessions Flash"
        url: "https://github.com/ga-wdi-lessons/rails-errors-validations-flash"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Rails"
@@ -448,13 +448,13 @@
     - "2:30PM - 5:00PM":
        title: "Rails Associations 1"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "10:00AM - 12:30PM":
        title: "Rails Associations 2"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 03:30PM":
        title: "Outcomes Small Groups"
@@ -470,12 +470,12 @@
     - "10:00AM - 12:30PM":
        title: "Testing"
        url: ""
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 07:00PM":
        title: "Rails Many to Many"
        url: ""
-       lead: ""
+       lead: "James"
        support: ""
   - day:
     - "9:00AM - 5:00PM":
