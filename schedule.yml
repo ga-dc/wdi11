@@ -418,6 +418,11 @@
        url: "https://github.com/ga-wdi-exercises/rails_getting_started"
        lead: ""
        support: ""
+    - "9:00AM - 10:00AM":
+       title: "Morning Ex: Romanize!"
+       url: "https://github.com/ga-wdi-exercises/romanize"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Rails New, Create and Delete Features"
        url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
@@ -499,12 +504,6 @@
     - "3:30PM - 5:00PM":
        title: "Outcomes"
        url: ""
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 2"
-       url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
   - day:
