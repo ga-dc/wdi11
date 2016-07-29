@@ -434,6 +434,11 @@
        lead: "Andy"
        support: ""
   - day:
+    - "9:00AM":
+       title: "Homework Due: Hogwarts"
+       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Rails Validations Sessions Flash"
        url: "https://github.com/ga-wdi-lessons/rails-errors-validations-flash"
