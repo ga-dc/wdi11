@@ -439,31 +439,51 @@
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "Rails Validations Sessions Flash"
-       url: "https://github.com/ga-wdi-lessons/rails-errors-validations-flash"
-       lead: "Nayana"
+    - "9:00AM - 10:00AM":
+       title: "Review"
+       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab: Rails"
-       url: ""
+       title: "Rails Validations, Errors, Flash, Sessions"
+       url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
+       lead: "Andy"
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Lab: Scribble"
+       url: "https://github.com/ga-wdi-exercises/scribble"
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Morning Exercise: Ceasar Cipher"
+       url: "https://github.com/ga-wdi-exercises/caesar_cipher_rb"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab: Rails"
-       url: ""
+       title: "Lab: Scribble"
+       url: "https://github.com/ga-wdi-exercises/scribble"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Rails Associations 1"
-       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
+       title: "Rails Routing /w Associations 1"
+       url: "https://github.com/ga-wdi-lessons/rails-routing"
        lead: "Andy"
        support: ""
   - day:
+    - "9:00AM":
+       title: "Lab Due: Scribble"
+       url: "https://github.com/ga-wdi-exercises/scribble"
+       lead: ""
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Review"
+       url: "https://github.com/ga-wdi-exercises/scribble"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
-       title: "Rails Associations 2"
-       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
+       title: "Rails Routing /w Associations 2"
+       url: "https://github.com/ga-wdi-lessons/rails-routing"
        lead: "Andy"
        support: ""
     - "2:30PM - 03:30PM":
@@ -477,6 +497,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Testing"
        url: ""
@@ -488,7 +513,17 @@
        lead: "James"
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
+    - "9:00AM":
+       title: "HW Due: Build a 2 Model Crud App"
+       url: ""
+       lead: ""
+       support: ""
+    - "9:00AM - 9:15AM":
+       title: "Project 2: Kickoff"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
+    - "9:15AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
