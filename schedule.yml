@@ -466,8 +466,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Rails Fake Users"
-       url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
+       title: "Rails Routing /w Associations"
+       url: "https://github.com/ga-wdi-lessons/rails-routing"
        lead: "Andy"
        support: ""
   - day:
@@ -481,9 +481,9 @@
        url: "https://github.com/ga-wdi-exercises/scribble"
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "Rails Routing /w Associations"
-       url: "https://github.com/ga-wdi-lessons/rails-routing"
+    - "10:00PM - 12:30PM":
+       title: "Rails Fake Users"
+       url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
        lead: "Andy"
        support: ""
     - "2:30PM - 03:30PM":
