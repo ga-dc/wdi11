@@ -504,18 +504,18 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Testing"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/rspec"
        lead: "Nayana"
        support: ""
-    - "2:30PM - 07:00PM":
+    - "2:30PM - 05:00PM":
        title: "Rails Many to Many"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
        lead: "James"
        support: ""
   - day:
     - "9:00AM":
        title: "HW Due: Build a 2 Model Crud App"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/rails-two-model-CRUD"
        lead: ""
        support: ""
     - "9:00AM - 9:15AM":
