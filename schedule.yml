@@ -450,8 +450,8 @@
        lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Lab: Scribble"
-       url: "https://github.com/ga-wdi-exercises/scribble"
+       title: "Lab: Game of Thrones"
+       url: "https://github.com/ga-wdi-exercises/game_of_thrones/tree/master"
        lead: ""
        support: ""
   - day:
@@ -461,8 +461,8 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab: Scribble"
-       url: "https://github.com/ga-wdi-exercises/scribble"
+       title: "Lab: Game of Thrones"
+       url: "https://github.com/ga-wdi-exercises/game_of_thrones/tree/master"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
