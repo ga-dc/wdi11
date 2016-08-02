@@ -482,7 +482,7 @@
        lead: ""
        support: ""
     - "10:00PM - 12:30PM":
-       title: "Rails Fake Users"
+       title: "Rails Users w/o encryption"
        url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
        lead: "Andy"
        support: ""
