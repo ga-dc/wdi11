@@ -534,6 +534,11 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
+    - "11:00AM - 12:00AM":
+       title: "Server Side API calls using PORO's"
+       url: "http://andrewsunglaekim.github.io/Server-side-api-calls-wrapped-in-ruby-classes/"
+       lead: "andy"
+       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 2"
