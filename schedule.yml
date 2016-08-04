@@ -523,28 +523,33 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "9:15AM - 5:00PM":
+    - "9:15AM - 4:30PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 10:00AM":
-       title: "Optional Mini-Lesson: Server-side API requests"
-       url: "https://github.com/ga-wdi-exercises/project2"
-       lead: "Andy"
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
+       url: ""
+       lead: ""
        support: ""
+  - day:
     - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "11:00AM - 12:00AM":
-       title: "Server Side API calls using PORO's"
+    - "10:00AM - 10:00AM":
+       title: "Optional Mini-Lesson: Server-side API requests"
        url: "http://andrewsunglaekim.github.io/Server-side-api-calls-wrapped-in-ruby-classes/"
-       lead: "andy"
+       lead: "Andy"
        support: ""
   - day:
+    - "9:00AM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
     - "10:00AM - 11:00AM":
        title: "Optional Mini-Lesson: Devise Gem"
        url: "https://github.com/ga-wdi-exercises/project2"
@@ -554,11 +559,6 @@
        title: "Optional Mini-Lesson: Self-referential Associations"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: "James"
-       support: ""
-    - "9:00AM - 5:00PM":
-       title: "Project 2"
-       url: "https://github.com/ga-wdi-exercises/project2"
-       lead: ""
        support: ""
   - day:
     - "9:00AM - 12:30PM":
@@ -582,13 +582,23 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "11:00AM - 12:00PM":
+    - "12:00PM":
        title: "Project Due: Submit Video No later than 12:00 PM"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "2:00PM - 4:00 PM":
+    - "1:30PM - 4:00PM":
        title: "Project Presentations"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 4:30PM":
+       title: "Midcourse Feedback"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
        url: ""
        lead: ""
        support: ""
