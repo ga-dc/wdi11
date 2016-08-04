@@ -620,31 +620,26 @@
        lead: ""
        support: ""
   - day:
-    - "10:00AM - 12:30PM":
+    - "10:00AM - 12:00PM":
+       title: "Outcomes: Nat Geo Studio Tour"
+       url: "https://github.com/ga-wdi-lessons/angular-resources"
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Angular Resources"
        url: "https://github.com/ga-wdi-lessons/angular-resources"
        lead: "Nayana"
        support: ""
-    - "2:30PM - 5:00PM":
+  - day:
+    - "10:00AM - 12:30PM":
        title: "Rails API (feat. Angular Front-End)"
        url: "https://github.com/ga-wdi-lessons/angular-on-rails"
        lead: "James"
        support: ""
-  - day:
-    - "10:00AM - 12:30PM":
+    - "2:30PM - 5:00PM":
        title: "Firebase"
        url: "https://github.com/ga-wdi-lessons/angular-firebase"
        lead: "James"
-       support: ""
-    - "2:30PM - 3:30PM":
-       title: "Outcomes Small Groups"
-       url: ""
-       lead: ""
-       support: ""
-    - "3:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
-       lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
