@@ -603,7 +603,12 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 12:30PM":
+    - "9:00AM - 10:00AM":
+       title: "Deploy Project 2"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
        title: "Intro to Angular"
        url: "https://github.com/ga-wdi-lessons/angular-intro"
        lead: "Nayana"
