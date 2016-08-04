@@ -472,8 +472,8 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "Lab Due: Scribble"
-       url: "https://github.com/ga-wdi-exercises/scribble"
+       title: "Lab Due: Game of Thrones"
+       url: "https://github.com/ga-wdi-exercises/game_of_thrones/tree/master"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -500,7 +500,7 @@
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: ""
-       lead: ""
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Testing"
@@ -529,6 +529,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Optional Mini-Lesson: Server-side API requests"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Andy"
+       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
@@ -540,12 +545,32 @@
        lead: "andy"
        support: ""
   - day:
+    - "10:00AM - 11:00AM":
+       title: "Optional Mini-Lesson: Devise Gem"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Nayana"
+       support: ""
+    - "11:00AM - 12:00PM":
+       title: "Optional Mini-Lesson: Self-referential Associations"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "James"
+       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 12:30PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
+    - "2:30PM - 3:30PM":
+       title: "Project 2"
+       url: ""
+       lead: ""
+       support: ""
     - "3:30PM - 5:00PM":
        title: "Outcomes"
        url: ""
@@ -571,52 +596,57 @@
     - "9:00AM - 12:30PM":
        title: "Intro to Angular"
        url: "https://github.com/ga-wdi-lessons/angular-intro"
-       lead: ""
-       support: ""
+       lead: "Nayana"
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "UI Router"
        url: "https://github.com/ga-wdi-lessons/angular-routing"
+       lead: "Andy"
+       support: "Nayana"
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
        support: ""
-  - day:
     - "10:00AM - 12:30PM":
        title: "API's & AJAX"
        url: "https://github.com/ga-wdi-lessons/angular-firebase"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Angular Resources"
-       url: "https://github.com/ga-wdi-lessons/angular-resources"
+       title: "Giphy Lab"
+       url: "https://github.com/ga-wdi-exercises/infinite-giphy"
        lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
-       title: "Custom Directives"
-       url: "https://github.com/ga-wdi-lessons/angular-directives"
-       lead: ""
+       title: "Angular Resources"
+       url: "https://github.com/ga-wdi-lessons/angular-resources"
+       lead: "Nayana"
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "Rails API"
+    - "2:30PM - 5:00PM":
+       title: "Rails API (feat. Angular Front-End)"
        url: "https://github.com/ga-wdi-lessons/angular-on-rails"
-       lead: ""
+       lead: "James"
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Firebase"
+       url: "https://github.com/ga-wdi-lessons/angular-firebase"
+       lead: "James"
        support: ""
     - "2:30PM - 3:30PM":
-       title: "Outcomes Small Group"
+       title: "Outcomes Small Groups"
        url: ""
        lead: ""
        support: ""
-    - "3:30PM - 5:30PM":
+    - "3:30PM - 5:00PM":
        title: "Outcomes"
        url: ""
        lead: ""
        support: ""
   - day:
-    - "2:30PM - 5:00PM":
-       title: "Git Workflows"
-       url: "https://github.com/ga-wdi-lessons/git-teams"
-       lead: ""
-       support: ""
-  - day:
     - "10:00AM - 12:30PM":
        title: "Lab: Angular"
        url: ""
@@ -628,8 +658,13 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 3"
+    - "9:00AM - 10:30AM":
+       title: "Git Workflows"
+       url: "https://github.com/ga-wdi-lessons/git-teams"
+       lead: "Nayana"
+       support: ""
+    - "10:30AM - 5:00PM":
+       title: "Project 3 Kickoff"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
@@ -662,7 +697,7 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
-    - "11:00AM - 12:00PM":
+    - "12:00PM":
        title: "Project Due"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
