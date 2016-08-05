@@ -63,3 +63,14 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
   - destroy (`.destroy`)
 - leverage `has_many` and `belongs_to` helper methods to query databases and create data more effectively
 - seed a database using a ruby program
+
+### Rails
+
+- rMVC flow
+- making post, put, delete requests from forms
+- rails form helper methods
+- embedding ruby expressions
+- configure routes.rb — nesting resources, RESTful routes, keywords except: and only:
+- rake commands for db handling
+- how to write a seeds.rb script
+- generating models, controllers, and migrations from the command line
