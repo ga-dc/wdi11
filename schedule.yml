@@ -683,13 +683,13 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab: Angular"
-       url: ""
+       title: "Lab: WDI Radio"
+       url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Lab: Angular"
-       url: ""
+       title: "Lab: WDI Radio"
+       url: "https://github.com/ga-wdi-exercises/wdi_radio_lab"
        lead: ""
        support: ""
   - day:
