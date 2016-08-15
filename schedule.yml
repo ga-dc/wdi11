@@ -640,6 +640,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Homework Due: OMDB Movie Browser"
+       url: "https://github.com/ga-wdi-exercises/movie-browser"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "open office hours"
        url: ""
