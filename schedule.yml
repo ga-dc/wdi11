@@ -693,6 +693,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Homework Due: Grumblr Angular & WDInstagram"
+       url: "https://github.com/ga-wdi-exercises/wdinstagram_rails_api"
+       lead: ""
+       support: ""
     - "9:00AM - 10:30AM":
        title: "Git Workflows"
        url: "https://github.com/ga-wdi-lessons/git-teams"
