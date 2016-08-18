@@ -74,3 +74,34 @@ Here's a list of need to know concepts covered in each of the various weeks. Eac
 - rake commands for db handling
 - how to write a seeds.rb script
 - generating models, controllers, and migrations from the command line
+
+### AJAX, APIs
+- Know distinction between synchronous & asynchronous program execution
+- Know how to make all HTTP requests via AJAX
+ - To **C**reate, **R**ead, **U**pdate, and **D**estroy data
+- How to use promises to determine after-request behavior using `.done`, `.then`, `.fail`, `.always`
+- Build an API in Rails
+```rb
+def index
+    render json: SomeModel.all
+end
+```
+
+
+### Angular
+
+- Setting & Applying an Angular module
+- Injecting dependencies
+ - Passing in a reference to a callback when defining Angular functionality (e.g. a controller, factory, service, route configuration, etc)
+- **Using directives**
+ - e.g. ng-model, ng-repeat, ng-click, ng-controller, ng-app, ui-view, ng-change, ng-if, ng-show, ng-hide, etc
+- M-V-VM architecture and 2-way data-binding
+- Using `ui.router` & the concept of states
+ - Know what `$stateProvider` and `$state` do
+ - Be able to implement `$stateProvider` and `$state`
+ - Know what makes up a state (e.g. url, templateUrl, controller, controllerAs)
+- Utilization of ngResource
+ - Be able to build a Factory & connect to an API endpoint
+- **Bonus:** Create a firebase backend (via firebase console on the web)
+ - Connecting to Firebase via Angular (angularFire & firebase)
+- **Bonus:** Setting up Angular on Rails
