@@ -747,3 +747,160 @@
        url: ""
        lead: ""
        support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Express Intro"
+       url: "https://github.com/ga-wdi-lessons/express-intro"
+       lead: "Nayana"
+       support: "James"
+    - "2:30PM - 5:00 PM":
+       title: "Mongo / Mongoose Intro"
+       url: "https://github.com/ga-wdi-lessons/mongo-intro"
+       lead: "Nayana"
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Mongoose w/ Express"
+       url: "https://github.com/ga-wdi-lessons/express-mongoose"
+       lead: "Andy"
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "Intro to MEAN"
+       url: "https://github.com/ga-wdi-lessons/mean-intro"
+       lead: "Andy"
+       support: "Nayana"
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Building a MEAN app"
+       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
+       lead: "Andy"
+       support: "James"
+
+    - "2:30PM - 5:00 PM":
+       title: "MEAN Lab"
+       url: ""
+       lead: "Nayana"
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "Mean Lab pt. II"
+       url: ""
+       lead: "James"
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Web Sockets in Node"
+       url: "https://github.com/ga-wdi-lessons/websockets-node"
+       lead: "James"
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "Web Sockets Lab"
+       url: "https://github.com/ga-wdi-exercises/websocket-arcade"
+       lead: "James"
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "React Intro"
+       url: ""
+       lead: "Andy"
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "React Router"
+       url: ""
+       lead: "Andy"
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "React Axios"
+       url: ""
+       lead: "Andy"
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "React Extravaganza"
+       url: ""
+       lead: "Andy"
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "React Lab"
+       url: ""
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "React Lab"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Outcomes"
+       url: ""
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "Computer Science"
+       url: ""
+       lead: "Andy"
+       support: "James"
+  - day:
+    - "10:00AM - 12:30PM":
+       title: "Project Prep Lab: Teach Yo Self (a framework)"
+       url: ""
+       lead: "You"
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "Project Prep Lab: Teach Yo Self (a framework)"
+       url: ""
+       lead: "You"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Project 4!"
+       url: ""
+       lead: "You"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Project 4!"
+       url: ""
+       lead: "You"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Project 4!"
+       url: ""
+       lead: "You"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Project 4!"
+       url: ""
+       lead: "You"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Project 4!"
+       url: ""
+       lead: "You"
+       support: ""
+  - day:
+    - "12:00PM":
+       title: "Project 4 Presentations"
+       url: ""
+       lead: ""
+       support: ""
+    - "2:30PM-4:00PM":
+       title: "Life After WDI"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM-5:00PM":
+       title: "Final Scrum, Feedback & Envelopes"
+       url: ""
+       lead: ""
+       support: ""
