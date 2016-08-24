@@ -720,15 +720,15 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
-    - "3:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
-       lead: ""
-       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Outcomes"
+       url: ""
        lead: ""
        support: ""
   - day:
