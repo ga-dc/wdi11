@@ -805,36 +805,31 @@
        support: ""
   - day:
     - "10:00AM - 12:30PM":
-       title: "React Intro"
+       title: "Intro to ES6"
        url: ""
-       lead: "Andy"
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00 PM":
+       title: "React Intro"
+       url: ""
+       lead: "Nayana"
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "No Class: Labor Day"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "10:00AM - 12:30PM":
        title: "React Router"
        url: ""
        lead: "Andy"
        support: ""
-  - day:
-    - "10:00AM - 12:30PM":
-       title: "React Axios"
+    - "2:30PM - 5:00 PM":
+       title: "React with Backend"
        url: ""
        lead: "Andy"
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "React Extravaganza"
-       url: ""
-       lead: "Andy"
-       support: ""
-  - day:
-    - "10:00AM - 12:30PM":
-       title: "React Lab"
-       url: ""
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "React Lab"
-       url: ""
-       lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
@@ -849,14 +844,14 @@
        support: "James"
   - day:
     - "10:00AM - 12:30PM":
-       title: "Project Prep Lab: Teach Yo Self (a framework)"
+       title: "React Lab"
        url: ""
-       lead: "You"
+       lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Project Prep Lab: Teach Yo Self (a framework)"
+       title: "React Lab"
        url: ""
-       lead: "You"
+       lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
