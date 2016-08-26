@@ -749,7 +749,9 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "Office Hours"
+       title: "Mongo Set-Up Office Hours"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Express Intro"
        url: "https://github.com/ga-wdi-lessons/express-intro"
@@ -757,7 +759,7 @@
        support: "James"
     - "2:30PM - 5:00 PM":
        title: "Mongo / Mongoose Intro"
-       url: "https://github.com/ga-wdi-lessons/mongo-intro"
+       url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: "Nayana"
        support: ""
   - day:
