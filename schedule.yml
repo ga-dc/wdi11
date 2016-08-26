@@ -786,8 +786,8 @@
        lead: "Nayana"
        support: ""
   - day:
-    - "10:00AM - 12:30PM":
-       title: "Outcomes"
+    - "10:00AM - 12:00PM":
+       title: "Outcomes Hiring Panel"
        url: ""
        lead: ""
        support: ""
@@ -810,7 +810,7 @@
   - day:
     - "10:00AM - 12:30PM":
        title: "Intro to ES6"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/es6"
        lead: "Nayana"
        support: ""
     - "2:30PM - 5:00 PM":
