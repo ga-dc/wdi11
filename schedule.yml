@@ -763,6 +763,16 @@
        lead: "Nayana"
        support: ""
   - day:
+    - "9:00AM":
+       title: "Homework Due: Compliment Express"
+       url: "https://github.com/ga-wdi-exercises/compliment-express"
+       lead: ""
+       support: ""
+    - "9:00AM":
+       title: "Homework Due: Part 1 of Yum"
+       url: "https://github.com/ga-wdi-exercises/yum"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Mongoose w/ Express"
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
@@ -782,7 +792,7 @@
 
     - "2:30PM - 5:00 PM":
        title: "MEAN Lab"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/mean-lab"
        lead: "Nayana"
        support: ""
   - day:
@@ -793,7 +803,7 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Mean Lab pt. II"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/mean-lab"
        lead: "James"
        support: ""
   - day:
@@ -815,7 +825,7 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "React Intro"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/react-intro"
        lead: "Nayana"
        support: ""
   - day:
