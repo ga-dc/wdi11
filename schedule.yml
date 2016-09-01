@@ -807,6 +807,11 @@
        lead: "James"
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Review"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Web Sockets in Node"
        url: "https://github.com/ga-wdi-lessons/websockets-node"
@@ -818,6 +823,11 @@
        lead: "James"
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Intro to ES6"
        url: "https://github.com/ga-wdi-lessons/es6"
@@ -854,8 +864,8 @@
     - "2:30PM - 5:00 PM":
        title: "Computer Science"
        url: ""
-       lead: "Andy"
-       support: "James"
+       lead: "James"
+       support: ""
   - day:
     - "10:00AM - 12:30PM":
        title: "React Lab"
