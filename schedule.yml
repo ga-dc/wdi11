@@ -806,14 +806,14 @@
        lead: "James"
        support: ""
   - day:
-    - "10:00AM - 12:30PM":
+    - "9:00AM - 12:30PM":
        title: "Intro to ES6"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/es6-teach-yourself"
        lead: "Nayana"
        support: ""
     - "2:30PM - 5:00 PM":
        title: "React Intro"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/react-intro"
        lead: "Nayana"
        support: ""
   - day:
