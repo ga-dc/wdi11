@@ -852,14 +852,19 @@
        support: ""
   - day:
     - "10:00AM - 12:30PM":
-       title: "Outcomes"
-       url: ""
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "Computer Science"
+       title: "Algorithms!"
        url: ""
        lead: "James"
+       support: ""
+    - "2:30PM - 3:30 PM":
+       title: "Portfolio Development Lab Time"
+       url: ""
+       lead: "You"
+       support: ""
+    - "3:30PM - 5:30 PM":
+       title: "Outcomes Open Office Hours"
+       url: ""
+       lead: ""
        support: ""
   - day:
     - "10:00AM - 12:30PM":
