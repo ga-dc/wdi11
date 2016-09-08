@@ -106,3 +106,43 @@ Weeks 7-9
 - **Bonus:** Create a firebase backend (via firebase console on the web)
  - Connecting to Firebase via Angular (angularFire & firebase)
 - **Bonus:** Setting up Angular on Rails
+
+Week 10-11
+
+### Express
+- Create, deploy, and modify a simple Express app with views, embedded code, and data persistence
+- Use Handlebars as a template engine to render views in Express
+- Use and configure middleware such as body-parser for form submission
+- Link to static assets in Express
+- Describe the role of `npm` and `package.json`
+- Explain the relationship between `require` and `module.exports`
+- Understand Node and how it's used with Express
+
+### ES6
+
+- Understand block scoping
+- Using `let` and `const`
+- Use default parameters and arrow functions
+- Use template literals
+- Use destructuring to extract values from objects and arrays
+- Leveraging destructuring for use with spread
+- Understand import/export syntax with modules
+
+### Mongo/Mongoose
+
+- Distinguish between a SQL and NoSQL database
+- Setup a local MongoDB server
+- Understand documents in the context of MongoDB
+- Explain how Mongoose uses schema and models
+- Use Mongoose to implement CRUD
+- Persist data using Mongoose embedded documents
+
+### React
+
+- Understand components and their role in web development
+- Create and render components in the browser
+- Use `props` to pass in data to a component
+- Modify the `state` of a component
+- Use React Router to deep link
+- Use the axios library to retrieve data from a back end
+- Pass state from parent components to children and vice versa
