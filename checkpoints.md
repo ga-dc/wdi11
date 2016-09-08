@@ -107,7 +107,7 @@ Weeks 7-9
  - Connecting to Firebase via Angular (angularFire & firebase)
 - **Bonus:** Setting up Angular on Rails
 
-Week 10-11
+Weeks 10-11
 
 ### Express
 - Create, deploy, and modify a simple Express app with views, embedded code, and data persistence
