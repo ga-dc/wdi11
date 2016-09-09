@@ -853,7 +853,7 @@
   - day:
     - "10:00AM - 12:30PM":
        title: "Algorithms!"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/cs-algorithms/"
        lead: "James"
        support: ""
     - "2:30PM - 3:30 PM":
@@ -869,12 +869,12 @@
   - day:
     - "10:00AM - 12:30PM":
        title: "React Lab"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/react-omdb"
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
        title: "React Lab"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/react-omdb"
        lead: ""
        support: ""
   - day:
@@ -884,6 +884,11 @@
        lead: "You"
        support: ""
   - day:
+    - "11:00AM":
+       title: "D3 Mini Lesson"
+       url: "https://github.com/ga-wdi-lessons/d3-intro"
+       lead: "Andy"
+       support: ""
     - "9:00AM - 5:00PM":
        title: "Project 4!"
        url: ""
@@ -895,11 +900,21 @@
        url: ""
        lead: "You"
        support: ""
+    - "11:00AM - 12:00PM":
+       title: "Instructor AMA"
+       url: ""
+       lead: "You"
+       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 4!"
        url: ""
        lead: "You"
+       support: ""
+    - "3:30PM - 5:30PM":
+       title: "Preparing for the Technical Interview"
+       url: ""
+       lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
@@ -922,24 +937,6 @@
        title: "Final Scrum, Feedback & Envelopes"
        url: ""
        lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 4!"
-       url: ""
-       lead: "You"
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 4!"
-       url: ""
-       lead: "You"
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 4!"
-       url: ""
-       lead: "You"
        support: ""
   - day:
     - "9:00AM - 5:00PM":
